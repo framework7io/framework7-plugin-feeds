@@ -1,0 +1,101 @@
+doctype
+html
+  head
+    meta(charset="utf-8")
+    meta(name="viewport", content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, minimal-ui")
+    meta(name='apple-mobile-web-app-capable', content='yes')
+    meta(name="apple-mobile-web-app-status-bar-style", content="black")
+    title Scroll Effects
+    link(rel="stylesheet", href="bower_components/framework7/dist/css/framework7.min.css")
+    link(rel="stylesheet", href="bower_components/framework7/dist/css/framework7.themes.min.css")
+    link(rel="stylesheet", href="../build/framework7.feeds.css")
+  body
+    .statusbar-overlay
+    .panel-overlay
+    .panel.panel-left.panel-reveal.layout-dark
+      .view
+        .pages
+          .page
+            .page-content
+              .list-block
+                ul
+                  li
+                    a(href="#").item-content.item-link
+                      .item-inner
+                        .item-title Link 1
+                  li
+                    a(href="#").item-content.item-link
+                      .item-inner
+                        .item-title Link 2
+                  li
+                    a(href="#").item-content.item-link
+                      .item-inner
+                        .item-title Link 3
+                  li
+                    a(href="#").item-content.item-link
+                      .item-inner
+                        .item-title Link 4
+                  li
+                    a(href="#").item-content.item-link
+                      .item-inner
+                        .item-title Link 5
+              .content-block Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam neque tellus, dignissim quis turpis id, lacinia euismod ipsum. Pellentesque auctor laoreet velit, consectetur aliquam urna pharetra eget. Fusce hendrerit risus sit amet interdum mollis. Donec et consectetur arcu, non aliquet mauris.
+          
+    .panel.panel-right.panel-reveal.layout-dark
+      .view
+        .pages
+          .page
+            .page-content
+              .list-block
+                ul
+                  li
+                    a(href="#").item-content.item-link
+                      .item-inner
+                        .item-title Link 1
+                  li
+                    a(href="#").item-content.item-link
+                      .item-inner
+                        .item-title Link 2
+                  li
+                    a(href="#").item-content.item-link
+                      .item-inner
+                        .item-title Link 3
+                  li
+                    a(href="#").item-content.item-link
+                      .item-inner
+                        .item-title Link 4
+                  li
+                    a(href="#").item-content.item-link
+                      .item-inner
+                        .item-title Link 5
+
+    .views
+      .view.view-main
+        .navbar
+          .navbar-inner
+            .center.sliding Feeds Parser
+            .right
+              a(href="#").link.icon-only.open-panel 
+                i.icon.icon-bars-blue
+        .pages.navbar-through.toolbar-through
+          .page(data-page="index")
+            .page-content
+              .content-block-title Framework7 Feeds Parser Plugin
+              .list-block
+                ul
+                  - for (var i = 0; i < 100; i++)
+                    li
+                      .item-content
+                        .item-inner
+                          .item-title List Element #{i}
+              .content-block
+                .row
+                  .col-50
+                    a(href="#", data-panel="left").button.open-panel Left Panel
+                  .col-50
+                    a(href="#", data-panel="right").button.open-panel Right Panel
+    script(src="bower_components/framework7/dist/js/framework7.min.js")
+    script(src="../build/framework7.feeds.js")
+    script.
+        var myApp = new Framework7({swipePanel:'left'});
+        var mainView = myApp.addView('.view-main');

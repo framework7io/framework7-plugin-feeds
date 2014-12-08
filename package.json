@@ -1,0 +1,57 @@
+{
+  "name": "Framework7-Feeds",
+  "version": "0.1.0",
+  "description": "Framework7 plugin",
+  "main": "dist/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nolimits4web/Framework7-Feeds"
+  },
+  "keywords": [
+    "mobile", 
+    "framework", 
+    "ios 7", 
+    "ios7", 
+    "ios8", 
+    "ios 8", 
+    "iphone", 
+    "ipad", 
+    "apple", 
+    "phonegap", 
+    "native", 
+    "touch", 
+    "appstore", 
+    "app", 
+    "f7"
+  ],
+  "author": "Vladimir Kharlampidi",
+  "license": [
+    "MIT"
+  ],
+  "bugs": {
+    "url": "https://github.com/nolimits4web/Framework7-Feeds/issues"
+  },
+  "homepage": "http://www.idangero.us/framework7/",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "load-grunt-tasks": "~0.6.0",
+    "jshint": "~2.5.2",
+    "grunt-contrib-concat": "~0.5.0",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-uglify": "~0.5.1",
+    "grunt-contrib-less": "^0.11.0",
+    "grunt-contrib-jade": "~0.12.0",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-contrib-copy": "~0.5.0",
+    "grunt-contrib-connect": "~0.8.0",
+    "grunt-open": "~0.2.3",
+    "jshint-stylish": "~0.4.0",
+    "time-grunt": "~0.4.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  }
+}
