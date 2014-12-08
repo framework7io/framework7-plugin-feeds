@@ -153,7 +153,7 @@ Framework7.prototype.plugins.feeds = function (app) {
                 f.data = {
                     title: channel.children('title').text(),
                     link: channel.children('link').text(),
-                    description: channel.children('description').html().replace('<![CDATA[', '').replace(']]>', ''),
+                    description: channel.children('description').text().replace('<![CDATA[', '').replace(']]>', ''),
                     copyright: channel.children('copyright').text(),
                     image: {
                         url: channel.children('image').children('url').text(),
@@ -170,7 +170,7 @@ Framework7.prototype.plugins.feeds = function (app) {
                     var itemData = {
                         title: item.children('title').text().replace('<![CDATA[', '').replace(']]>', ''),
                         link: item.children('link').text(),
-                        description: item.children('description').html().replace('<![CDATA[', '').replace(']]>', ''),
+                        description: item.children('description').text().replace('<![CDATA[', '').replace(']]>', ''),
                         pubDate: item.children('pubDate').text(),
                         formattedDate: f.params.formatDate(item.children('pubDate').text()),
                         guid: item.children('guid').text(),
@@ -183,7 +183,7 @@ Framework7.prototype.plugins.feeds = function (app) {
                                 var fieldAttr = f.params.customItemFields[i].split('||')[1];
                                 if (this.nodeName === fieldName) {
                                     if (fieldAttr) itemData[fieldName.replace(/:/g, '')] = this.getAttribute(fieldAttr);
-                                    else itemData[fieldName.replace(/:/g, '')] = $(this).html().replace('<![CDATA[', '').replace(']]>', '');
+                                    else itemData[fieldName.replace(/:/g, '')] = $(this).text().replace('<![CDATA[', '').replace(']]>', '');
                                 }
                             }
                         });
