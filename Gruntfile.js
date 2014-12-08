@@ -109,39 +109,6 @@ module.exports = function (grunt) {
                     livereload: true
                 }
             },
-            demo: {
-                files: ['demo/index.jade'],
-                tasks: ['jade:demo'],
-                options: {
-                    livereload: true
-                }
-            },
-        },
-        jade: {
-            build: {
-                options: {
-                    pretty: true,
-                },
-                files: [{
-                    expand: true,
-                    cwd: 'src/templates/',
-                    src: ['*.jade'],
-                    dest: 'build/',
-                    ext: '.html'
-                }]
-            },
-            demo: {
-                options: {
-                    pretty: true
-                },
-                files: [{
-                    expand: true,
-                    cwd: 'demo/',
-                    src: ['*.jade'],
-                    dest: 'demo/',
-                    ext: '.html'
-                }]
-            },
         },
         copy: {
             dist: {
@@ -176,11 +143,6 @@ module.exports = function (grunt) {
         'jshint',
     ]);
 
-    // Demo
-    this.registerTask('demo', 'Builds a development version of <%= pkg.name %>', [
-        'jade:demo',
-    ]);
-
     // Release
     this.registerTask('dist', 'Builds a distributable version of <%= pkg.name %>', [
         'concat:js',
@@ -197,7 +159,6 @@ module.exports = function (grunt) {
     // Kitchen Sink
     this.registerTask('demo', 'Builds a kithcen sink', [
         'build',
-        'jade:demo',
     ]);
 
     // Server
