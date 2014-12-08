@@ -10,7 +10,7 @@
  *
  * Licensed under MIT
  *
- * Released on: December 8, 2014
+ * Released on: December 9, 2014
 */
 Framework7.prototype.plugins.feeds = function (app) {
     'use strict';
