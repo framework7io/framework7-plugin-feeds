@@ -1,17 +1,17 @@
-/*
- * Framework7 Feeds 1.0.0
+/**
+ * Framework7 Feeds 1.0.1
  * Framework7 Feeds plugin brings easy RSS feeds integration into Framework7 app
- *
- * http://www.idangero.us/framework7/
- *
- * Copyright 2014, Vladimir Kharlampidi
+ * 
+ * http://www.idangero.us/framework7/plugins/
+ * 
+ * Copyright 2015, Vladimir Kharlampidi
  * The iDangero.us
  * http://www.idangero.us/
- *
+ * 
  * Licensed under MIT
- *
- * Released on: December 9, 2014
-*/
+ * 
+ * Released on: August 22, 2015
+ */
 Framework7.prototype.plugins.feeds = function (app) {
     'use strict';
     var $ = window.Dom7;

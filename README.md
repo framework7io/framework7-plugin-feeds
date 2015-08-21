@@ -128,15 +128,9 @@ Or check out <a href="http://www.idangero.us/framework7/plugins/">live demo</a>
 
 ## Contribute
 
-All changes should be done only in `src/` folder. This project uses `grunt` to build a distributable version. 
+All changes should be done only in `src/` folder. This project uses `gulp` to build a distributable version. 
 
-First you need to have `grunt-cli` which you should install globally:
-
-```
-$ npm install -g grunt-cli
-```
-
-Then install all dependencies:
+First you need to install all dependencies:
 
 ```
 $ npm install
@@ -144,13 +138,13 @@ $ npm install
 
 Then to build plugin's files for testing run:
 ```
-$ grunt build
+$ gulp build
 ```
 
 If you need a local server while you developing you can run:
 
 ```
-$ grunt server
+$ gulp server
 ```
 
 And working demo will be available at `http://localhost:3000/demo/`
