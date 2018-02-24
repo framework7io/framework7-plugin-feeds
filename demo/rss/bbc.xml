@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Home]]></title>
+        <description><![CDATA[BBC News - Home]]></description>
+        <link>http://www.bbc.co.uk/news/</link>
+        <image>
+            <url>http://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Home</title>
+            <link>http://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sat, 24 Feb 2018 15:06:23 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Syria war: Air strikes in Eastern Ghouta 'kill 500']]></title>
+            <description><![CDATA[On the seventh day of government bombing of a rebel enclave, the UN struggles to agree a ceasefire.]]></description>
+            <link>http://www.bbc.co.uk/news/world-middle-east-43182854</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-middle-east-43182854</guid>
+            <pubDate>Sat, 24 Feb 2018 13:56:38 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/009C/production/_100165100_mediaitem100165099.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Winter Olympics: Great Britain's women lose to Japan in bronze-medal match]]></title>
+            <description><![CDATA[Great Britain's women curlers lose 5-3 to Japan in the bronze-medal match at the Winter Olympics in Pyeongchang.]]></description>
+            <link>http://www.bbc.co.uk/sport/winter-olympics/42981583</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/winter-olympics/42981583</guid>
+            <pubDate>Sat, 24 Feb 2018 14:20:26 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/E7C8/production/_100163395_gb_pa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Winter Olympics: Billy Morgan's dramatic wait for big air bronze]]></title>
+            <description><![CDATA[Great Britain's Billy Morgan seals an historic bronze medal in the men's snowboard big air in a dramatic final, which saw many of the favourites crash out.]]></description>
+            <link>http://www.bbc.co.uk/sport/winter-olympics/43180672</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/winter-olympics/43180672</guid>
+            <pubDate>Sat, 24 Feb 2018 07:47:42 GMT</pubDate>
+            <media:thumbnail width="1024" height="575" url="http://c.files.bbci.co.uk/11F9A/production/_100162637_p05z6mc4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Two in court over Coventry brothers 'hit-and-run' deaths]]></title>
+            <description><![CDATA[A man and woman are charged with causing the deaths of brothers Corey and Casper Platt-May in Coventry.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-coventry-warwickshire-43181305</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-coventry-warwickshire-43181305</guid>
+            <pubDate>Sat, 24 Feb 2018 11:44:35 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/3ABC/production/_100163051_collage.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chelmsford's homeless community voices shock at man's doorway death]]></title>
+            <description><![CDATA[Homeless people are bracing themselves for an expected drop in temperatures.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-essex-43181603</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-essex-43181603</guid>
+            <pubDate>Sat, 24 Feb 2018 13:10:07 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/09F2/production/_100164520_scott2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Euromillions results: UK ticket holder wins £78m]]></title>
+            <description><![CDATA[The British winner split the £156m jackpot with another ticket holder from Spain]]></description>
+            <link>http://www.bbc.co.uk/news/uk-43180518</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-43180518</guid>
+            <pubDate>Sat, 24 Feb 2018 14:11:16 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/C632/production/_98083705_gettyimages-171789098.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Florida shooting: Firms abandon NRA amid consumer boycott]]></title>
+            <description><![CDATA[Several corporate partners abandon the US gun lobby in the wake of the deadly school shooting.]]></description>
+            <link>http://www.bbc.co.uk/news/business-43173753</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-43173753</guid>
+            <pubDate>Sat, 24 Feb 2018 12:24:50 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/FB1D/production/_100158246_gettyimages-922306742-2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Red Cross reveals 21 staff paid for sexual services]]></title>
+            <description><![CDATA[The humanitarian aid agency reveals 21 staff have left for sexual misconduct since 2015.]]></description>
+            <link>http://www.bbc.co.uk/news/world-europe-43180606</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-europe-43180606</guid>
+            <pubDate>Sat, 24 Feb 2018 11:07:45 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/2798/production/_100163101_hi010339568.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Groped by Holy Mosque guard during Hajj' in Mecca]]></title>
+            <description><![CDATA[A number of women have taken to social media to say they've been sexually assaulted during the Hajj pilgrimage.]]></description>
+            <link>http://www.bbc.co.uk/news/world-middle-east-43174322</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-middle-east-43174322</guid>
+            <pubDate>Sat, 24 Feb 2018 00:04:52 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/18192/production/_100160789_p05z5wmm.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Daisy Dymyd death: Fundraising page 'fake', police warn]]></title>
+            <description><![CDATA[Daisy Dymyd's family say a fundraising page purporting to raise money for her funeral is fraudulent.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-nottinghamshire-43180682</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-nottinghamshire-43180682</guid>
+            <pubDate>Sat, 24 Feb 2018 08:54:53 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/F88A/production/_100162636_hi045062777.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Freezing temperatures push up wholesale gas prices]]></title>
+            <description><![CDATA[A cold snap across Europe has led to a spike in wholesale energy prices over the past few weeks.]]></description>
+            <link>http://www.bbc.co.uk/news/business-43182523</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-43182523</guid>
+            <pubDate>Sat, 24 Feb 2018 14:17:05 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1104/production/_100165340_a6aa90d7-7d71-4d15-904e-a4fe752dd49a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Joanna Demafelis: Employers of Filipina maid found dead in freezer arrested]]></title>
+            <description><![CDATA[The husband and wife employers of a Filipina maid found dead in a freezer are arrested in Syria.]]></description>
+            <link>http://www.bbc.co.uk/news/world-middle-east-43177349</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-middle-east-43177349</guid>
+            <pubDate>Sat, 24 Feb 2018 13:43:45 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/16AEA/production/_100160929_hi044840549.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wrexham pub offers discount to diners who lock phones away]]></title>
+            <description><![CDATA[Customers at a pub in Wrexham must agree to lock their phones in a box throughout their meal.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-wales-north-east-wales-43181353</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-wales-north-east-wales-43181353</guid>
+            <pubDate>Sat, 24 Feb 2018 10:42:26 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/17C9C/production/_100163479_mobile-8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Would you take somebody else's leftover medicine?]]></title>
+            <description><![CDATA[An app in Greece is helping people donate their leftover drugs to those who can't afford to buy them.]]></description>
+            <link>http://www.bbc.co.uk/news/stories-43155451</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/stories-43155451</guid>
+            <pubDate>Sat, 24 Feb 2018 00:17:36 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/D5F5/production/_100137745_p05z0s8x.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The UK's first male basketball cheerleader]]></title>
+            <description><![CDATA[After battling stereotypes, Terrell Lawrence finds his calling as a cheerleader.]]></description>
+            <link>http://www.bbc.co.uk/news/stories-43161945</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/stories-43161945</guid>
+            <pubDate>Sat, 24 Feb 2018 00:41:47 GMT</pubDate>
+            <media:thumbnail width="1013" height="570" url="http://c.files.bbci.co.uk/6670/production/_100142262_cheercopy.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ICYMI: Caves, cake and a giant clock]]></title>
+            <description><![CDATA[A few of the stories you may have missed this week.]]></description>
+            <link>http://www.bbc.co.uk/news/world-43177714</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-43177714</guid>
+            <pubDate>Sat, 24 Feb 2018 00:05:14 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/9732/production/_100160783_p05z5rf7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The BBC's John Simpson: How I became a Czech honeytrap target]]></title>
+            <description><![CDATA[The BBC's World Affairs editor says he "was getting in a bit deep" so he told the BBC, who brought in MI5.]]></description>
+            <link>http://www.bbc.co.uk/news/world-europe-43182076</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-europe-43182076</guid>
+            <pubDate>Sat, 24 Feb 2018 13:40:10 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/AFF6/production/_100164054_simpsonpa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Are you suffering from galanthomania?]]></title>
+            <description><![CDATA[Do you have "dirty knee syndrome"? Prize snowdrop bulbs can sell for thousands, as experts explain.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-43174324</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-43174324</guid>
+            <pubDate>Sat, 24 Feb 2018 00:04:59 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/162AB/production/_100159709_p05z5p51.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Which haircuts have been banned from schools?]]></title>
+            <description><![CDATA[The "McDonalds" haircut was banned in a Norfolk school - but it's not the first cut to cause controversy.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-43167658</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-43167658</guid>
+            <pubDate>Fri, 23 Feb 2018 20:50:32 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/18411/production/_100154399_oxladeandkemp.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What the British think of arming teachers]]></title>
+            <description><![CDATA[President Trump says he wants some US teachers to be trained to tackle gunmen. What do British people think?]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-43161568</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-43161568</guid>
+            <pubDate>Fri, 23 Feb 2018 20:52:50 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/8881/production/_100154943_p05z5p9c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stolen Degas painting Les Choristes found on a bus]]></title>
+            <description><![CDATA[The pastel artwork was taken more than eight years ago from the Musée Cantini in Marseille.]]></description>
+            <link>http://www.bbc.co.uk/news/world-europe-43168246</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-europe-43168246</guid>
+            <pubDate>Fri, 23 Feb 2018 15:55:16 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/A0AF/production/_100153114_008481667.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Criticism of Justin Trudeau's Bhangra dance and outfit choice]]></title>
+            <description><![CDATA[The Canadian prime minister took to the stage in Delhi, but not everybody is a fan of his dancing or outfits.]]></description>
+            <link>http://www.bbc.co.uk/news/world-43175652</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-43175652</guid>
+            <pubDate>Fri, 23 Feb 2018 17:05:25 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/2ACB/production/_100155901_p05z518k.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gogglebox star quits the show to 'pursue a career in TV']]></title>
+            <description><![CDATA[Chris Butland-Steed was part of the Channel 4 show for 10 series alongside his ex Stephen Webb.]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-43169704</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-43169704</guid>
+            <pubDate>Fri, 23 Feb 2018 14:39:41 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/C6ED/production/_100152905_gettyimages-632694208.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC News Channel]]></title>
+            <description><![CDATA[BBC coverage of latest developments]]></description>
+            <link>http://www.bbc.co.uk/news/10318089</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/10318089</guid>
+            <pubDate>Mon, 22 Jan 2018 07:22:00 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://news.bbcimg.co.uk/media/images/83122000/png/_83122356_globe_2048x1152.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Why do some Chinese funerals involve strippers?]]></title>
+            <description><![CDATA[Chinese authorities are once again cracking down on the practice which have existed for years.]]></description>
+            <link>http://www.bbc.co.uk/news/world-asia-china-43137005</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-asia-china-43137005</guid>
+            <pubDate>Sat, 24 Feb 2018 00:20:37 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/0AAB/production/_100113720_gettyimages-475215674.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The 'water war' brewing over the new River Nile dam]]></title>
+            <description><![CDATA[A new dam on the river Nile could trigger the world's first war about water, writes Alastair Leithead.]]></description>
+            <link>http://www.bbc.co.uk/news/world-africa-43170408</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-africa-43170408</guid>
+            <pubDate>Sat, 24 Feb 2018 01:38:16 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/C26F/production/_100157794_gettyimages-882961608-1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rent burden 'leads to student stress']]></title>
+            <description><![CDATA[Students are suffering from stress and anxiety owing to the pressures of housing costs, a survey has suggested.]]></description>
+            <link>http://www.bbc.co.uk/news/business-43157092</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-43157092</guid>
+            <pubDate>Sat, 24 Feb 2018 00:56:01 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/16003/production/_100151109_rosalynn.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mobile World Congress: Why do smartphones look so alike?]]></title>
+            <description><![CDATA[Smartphone sales are falling - could the fact they increasingly have similar designs be why?]]></description>
+            <link>http://www.bbc.co.uk/news/technology-43045682</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-43045682</guid>
+            <pubDate>Sat, 24 Feb 2018 00:01:24 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/153BB/production/_100017968_mediaitem100017967.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Why we run a boarding house for puppies']]></title>
+            <description><![CDATA[Meet the volunteer puppy "hoteliers" who help charities meet spiralling demand for assistance dogs.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-42817067</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-42817067</guid>
+            <pubDate>Sat, 24 Feb 2018 01:47:42 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/17944/production/_99808569_darcyandzac.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The news that made us smile this week]]></title>
+            <description><![CDATA[This week, we had the K-pop Norwegians. And the world's greatest commute. And much more.]]></description>
+            <link>http://www.bbc.co.uk/news/world-43121474</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-43121474</guid>
+            <pubDate>Sat, 24 Feb 2018 01:51:04 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/C788/production/_100108015_mediaitem100108014.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Africans at the Winter Olympics: Inspirational - or glory-hunters?]]></title>
+            <description><![CDATA[A record number of Africans competed this year - but most of them live in the US and Europe.]]></description>
+            <link>http://www.bbc.co.uk/news/world-africa-43149991</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-africa-43149991</guid>
+            <pubDate>Sat, 24 Feb 2018 02:49:52 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1499/production/_100137250_81949daf-08ba-48d5-98bc-3eab3cdfd1d1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The £10-a-game poker player who won $2.6m]]></title>
+            <description><![CDATA[Caravan salesman John Hesp plays poker once a month, so it was a huge shock when he went to Las Vegas and won a small fortune.]]></description>
+            <link>http://www.bbc.co.uk/news/stories-43156512</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/stories-43156512</guid>
+            <pubDate>Fri, 23 Feb 2018 01:57:11 GMT</pubDate>
+            <media:thumbnail width="758" height="426" url="http://c.files.bbci.co.uk/17453/production/_100151359_976xjohn-hesp_2017-wsop_mai.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The trouble knowing how much screen time is 'too much']]></title>
+            <description><![CDATA[Concerns about time spent online are widespread, but knowing how much is 'healthy' is difficult.]]></description>
+            <link>http://www.bbc.co.uk/news/technology-42907037</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-42907037</guid>
+            <pubDate>Fri, 23 Feb 2018 09:43:26 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/A784/production/_100148824_gettyimages-493444727.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Oxfam scandal: Nine charts that show what charities do]]></title>
+            <description><![CDATA[The Oxfam revelations have raised questions about the charity sector. But what do they do?]]></description>
+            <link>http://www.bbc.co.uk/news/uk-43145826</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-43145826</guid>
+            <pubDate>Fri, 23 Feb 2018 11:36:25 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/0804/production/_100125020_gettyimages-813128966.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Winter Olympics: Billy Morgan wins Great Britain's record fifth medal in Pyeongchang]]></title>
+            <description><![CDATA[Billy Morgan wins bronze in the men's snowboarding big air to secure Great Britain their highest medal tally in Winter Olympics history.]]></description>
+            <link>http://www.bbc.co.uk/sport/winter-olympics/42981477</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/winter-olympics/42981477</guid>
+            <pubDate>Sat, 24 Feb 2018 14:42:17 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/0A9C/production/_100161720_billy_morgan_epa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ben Stokes: England all-rounder set to return for ODI against New Zealand]]></title>
+            <description><![CDATA[Ben Stokes is set to return to the England team for Sunday's one-day international against New Zealand after a five-month absence.]]></description>
+            <link>http://www.bbc.co.uk/sport/cricket/43181234</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/cricket/43181234</guid>
+            <pubDate>Sat, 24 Feb 2018 14:28:46 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/17FD0/production/_100165289_stokes_pa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Leicester City 1-1 Stoke City]]></title>
+            <description><![CDATA[Jack Butland's calamitous error against Leicester costs Stoke two points in their fight against Premier League relegation.]]></description>
+            <link>http://www.bbc.co.uk/sport/football/43094243</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/football/43094243</guid>
+            <pubDate>Sat, 24 Feb 2018 15:05:14 GMT</pubDate>
+            <media:thumbnail width="1934" height="1088" url="http://c.files.bbci.co.uk/B064/production/_100165154_butland_pa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Winter Olympics: Slalom squirrel - snowboarder narrowly avoids furry intruder]]></title>
+            <description><![CDATA[Watch as Olympic athletes from Russia's Milena Bykova narrowly avoids a collision with a squirrel on her run in the snowboarding giant slalom at the Winter Olympics.]]></description>
+            <link>http://www.bbc.co.uk/sport/winter-olympics/43180012</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/winter-olympics/43180012</guid>
+            <pubDate>Sat, 24 Feb 2018 05:28:09 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/1583E/production/_100162188_p05z6fgd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Billy Morgan: 'We've done well for a nation with no snow']]></title>
+            <description><![CDATA[Winter Olympic bronze medallist Billy Morgan says Team GB are "pushing the boundaries" in sport.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-43182073</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-43182073</guid>
+            <pubDate>Sat, 24 Feb 2018 11:12:11 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/16F5E/production/_100164049_p05z6yh4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch the jump that secured historic GB bronze]]></title>
+            <description><![CDATA[Great Britain's Billy Morgan seals an historic bronze medal in the men's snowboard big air, making Pyeongchang 2018 GB's most successful Winter Olympics.]]></description>
+            <link>http://www.bbc.co.uk/sport/winter-olympics/43179346</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/winter-olympics/43179346</guid>
+            <pubDate>Sat, 24 Feb 2018 02:49:12 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/144D4/production/_100165138_p05z76s9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Winter Olympics: Ester Ledecka wins golds in two different sports]]></title>
+            <description><![CDATA[Czech snowboarder Ester Ledecka becomes the first woman to win gold medals in two sports at a Winter Olympics with this victory in the snowboarding parallel giant slalom.]]></description>
+            <link>http://www.bbc.co.uk/sport/winter-olympics/43180018</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/winter-olympics/43180018</guid>
+            <pubDate>Sat, 24 Feb 2018 06:27:12 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/FF2E/production/_100162356_ester_ledecka_epa3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Winter Olympics: Russia's Nadezhda Sergeeva banned for doping]]></title>
+            <description><![CDATA[A second Russian athlete competing at the Winter Olympics in Pyeongchang is punished after testing positive for a banned substance.]]></description>
+            <link>http://www.bbc.co.uk/sport/winter-olympics/43180504</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/winter-olympics/43180504</guid>
+            <pubDate>Sat, 24 Feb 2018 12:23:58 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/F681/production/_100150136_sergeeva_epa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Winter Olympics: Norway win record 38th medal as Switzerland take team alpine skiing gold]]></title>
+            <description><![CDATA[Norway secure a record 38th medal at a Winter Olympics with bronze in the alpine skiing team event as Switzerland take gold.]]></description>
+            <link>http://www.bbc.co.uk/sport/winter-olympics/42981799</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/winter-olympics/42981799</guid>
+            <pubDate>Sat, 24 Feb 2018 09:41:02 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/16F4A/production/_100162049_norway_celebrate_getty.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Winter Olympics: Curling heartbreak, teen sensations and goals galore]]></title>
+            <description><![CDATA[Watch the best of the action from day 14 of the Winter Olympics, including Great Britain in the curling semi-final, a figure skating shock and a thrilling ice hockey encounter.]]></description>
+            <link>http://www.bbc.co.uk/sport/winter-olympics/43175384</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/winter-olympics/43175384</guid>
+            <pubDate>Fri, 23 Feb 2018 17:20:49 GMT</pubDate>
+            <media:thumbnail width="1920" height="1080" url="http://c.files.bbci.co.uk/C58F/production/_100157505_playlist_d14_web_still.10_00_03_00.still001.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Winter Olympics: Great Britain's women curlers lose 10-5 to Sweden in semi-finals]]></title>
+            <description><![CDATA[Great Britain's women curlers lose to Sweden in the Winter Olympic semi-finals and will play Japan for a bronze medal on Saturday.]]></description>
+            <link>http://www.bbc.co.uk/sport/winter-olympics/43166624</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/winter-olympics/43166624</guid>
+            <pubDate>Fri, 23 Feb 2018 16:10:28 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/E835/production/_100154495_muirhead_pa1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Zagitova, 15, wins figure skating gold]]></title>
+            <description><![CDATA[Alina Zagitova wins Olympic athletes from Russia's first gold medal of the 2018 Winter Olympics in the women's single figure skating.]]></description>
+            <link>http://www.bbc.co.uk/sport/winter-olympics/42981323</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/winter-olympics/42981323</guid>
+            <pubDate>Fri, 23 Feb 2018 16:08:23 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/2F8E/production/_100147121_alina_zagitova_reuters2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Winter Olympics: Kelsey Serwa wins women's ski cross gold]]></title>
+            <description><![CDATA[Kelsey Serwa claims gold in the women's ski cross as part of a Canadian one-two at the 2018 Winter Olympics in Pyeongchang.]]></description>
+            <link>http://www.bbc.co.uk/sport/winter-olympics/43165125</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/winter-olympics/43165125</guid>
+            <pubDate>Fri, 23 Feb 2018 02:48:49 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/D8A8/production/_100146455_kelseyserwaindexepa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Winter Olympics: Watch Germany's 'incredible' trick shot ice hockey goal]]></title>
+            <description><![CDATA[Frank Mauer scores with an "incredible" trick shot to give Germany a 3-0 lead against Canada in their Winter Olympics ice hockey semi-final.]]></description>
+            <link>http://www.bbc.co.uk/sport/winter-olympics/43172589</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/winter-olympics/43172589</guid>
+            <pubDate>Fri, 23 Feb 2018 13:59:34 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/BC42/production/_100149184_hi045092218.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Olympic champion crashes out of ski cross heats]]></title>
+            <description><![CDATA[Canada's defending women's ski cross champion Marielle Thompson crashes less than 100m into the first heat of the Winter Olympics in Pyeongchang.]]></description>
+            <link>http://www.bbc.co.uk/sport/winter-olympics/43164754</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/winter-olympics/43164754</guid>
+            <pubDate>Fri, 23 Feb 2018 01:43:21 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/C840/production/_100146215_gettyimages-923148206.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Winter Olympics: Germany stun defending champions Canada to face OAR in men's ice hockey final]]></title>
+            <description><![CDATA[Germany reach the men's ice hockey final at the Winter Olympics for the first time by ending Canada's reign in the semi-final.]]></description>
+            <link>http://www.bbc.co.uk/sport/winter-olympics/43168014</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/winter-olympics/43168014</guid>
+            <pubDate>Fri, 23 Feb 2018 15:14:59 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/14A41/production/_100154548_germany_reuters.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Winter Olympics: USA end 20-year wait, stunning stone & halfpipe heaven]]></title>
+            <description><![CDATA[Watch the best of the action from day 13 of the Winter Olympics in Pyeongchang, including a thrilling women's ice-hockey final and a stunning stone in the curling.]]></description>
+            <link>http://www.bbc.co.uk/sport/winter-olympics/43160948</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/winter-olympics/43160948</guid>
+            <pubDate>Thu, 22 Feb 2018 16:10:44 GMT</pubDate>
+            <media:thumbnail width="1920" height="1080" url="http://c.files.bbci.co.uk/3970/production/_100140741_playlist_d13_web_still.10_00_01_22.still012.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Winter Olympics: Day-by-day guide to Pyeongchang 2018]]></title>
+            <description><![CDATA[The Britons, the medals, the highlights - everything you need to know about every day of the Winter Olympics in Pyeongchang.]]></description>
+            <link>http://www.bbc.co.uk/sport/winter-olympics/42878234</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/winter-olympics/42878234</guid>
+            <pubDate>Fri, 23 Feb 2018 16:03:29 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/17CD0/production/_99888479_winterolympicsluge.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ethiopian cliff church gives priest daily test of faith]]></title>
+            <description><![CDATA[In the remote mountains of northern Ethiopia, a lone priest scales a 250m cliff each day to reach his church.]]></description>
+            <link>http://www.bbc.co.uk/news/world-africa-43079345</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-africa-43079345</guid>
+            <pubDate>Mon, 19 Feb 2018 01:35:32 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/C6F1/production/_100092905_thumb.2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The dirtiest place in your kitchen might surprise you...]]></title>
+            <description><![CDATA[Lots of us use wipes to keep our kitchen surfaces clean. But is it worth it?]]></description>
+            <link>http://www.bbc.co.uk/news/health-43131764</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-43131764</guid>
+            <pubDate>Wed, 21 Feb 2018 00:38:16 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/F33F/production/_100117226_gettyimages-158392420-1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I took my wife's name - and then the hassle began']]></title>
+            <description><![CDATA[Two men describe the difficulties they experienced when they took their wife's last name.]]></description>
+            <link>http://www.bbc.co.uk/news/stories-42961568</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/stories-42961568</guid>
+            <pubDate>Mon, 19 Feb 2018 01:51:14 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/B305/production/_100092854_namesnewpromo.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['The story of a weird world I was warned never to tell']]></title>
+            <description><![CDATA[Pauline Dakin's childhood was full of secrets, disruption and unpleasant surprises - it wasn't until many years later that she found out why.]]></description>
+            <link>http://www.bbc.co.uk/news/stories-42951788</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/stories-42951788</guid>
+            <pubDate>Thu, 22 Feb 2018 01:34:33 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/BE70/production/_100125784_p05yrzt5_976y.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Roman boxing gloves unearthed by Vindolanda dig]]></title>
+            <description><![CDATA[The bands of leather are "probably the only known surviving examples" of their kind.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-tyne-43120942</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-tyne-43120942</guid>
+            <pubDate>Tue, 20 Feb 2018 07:56:58 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/138C5/production/_100096008_gloves.jpg"/>
+        </item>
+    </channel>
+</rss>

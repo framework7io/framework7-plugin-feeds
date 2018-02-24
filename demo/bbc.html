@@ -1,17 +1,22 @@
-<div class="navbar">
-  <div class="navbar-inner">
-    <div class="left sliding"><a href="#" class="link back"><i class="icon icon-back"></i><span>Feeds</span></a></div>
-    <div class="center sliding">BBC News</div>
-  </div>
-</div>
-<div data-page="apple-news" class="page">
-  <div class="page-content pull-to-refresh-content">
-    <div class="pull-to-refresh-layer">
-        <div class="preloader"></div>
-        <div class="pull-to-refresh-arrow"></div>
+<div data-page="bbc-news" class="page">
+  <div class="navbar">
+    <div class="navbar-inner sliding">
+      <div class="left">
+        <a href="#" class="link back">
+          <i class="icon icon-back"></i>
+          <span class="ios-only">Back</span>
+        </a>
+      </div>
+      <div class="title">BBC News</div>
     </div>
-    <div data-url="proxy.php?url=http://feeds.bbci.co.uk/news/rss.xml" class="list-block feeds-init">
-      <div style="text-align:center" class="content-block-inner">
+  </div>
+  <div class="page-content ptr-content">
+    <div class="ptr-preloader">
+        <div class="preloader"></div>
+        <div class="ptr-arrow"></div>
+    </div>
+    <div data-feed-url="./rss/bbc.xml" class="list feeds-init">
+      <div class="text-align-center padding">
         <span class="preloader"></span>
       </div>
     </div>

@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:media="http://search.yahoo.com/mrss/"
+	>
+
+<channel>
+	<title>TechCrunch</title>
+	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://techcrunch.com</link>
+	<description>Startup and Technology News</description>
+	<lastBuildDate>Sat, 24 Feb 2018 15:04:16 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.com/</generator>
+<cloud domain='techcrunch.com' port='80' path='/?rsscloud=notify' registerProcedure='' protocol='http-post' />
+<image>
+		<url>https://secure.gravatar.com/blavatar/d9ea925a71f82f06a1e6224298f7fe80?s=96&#038;d=https%3A%2F%2Fs2.wp.com%2Fi%2Fbuttonw-com.png</url>
+		<title>TechCrunch</title>
+		<link>https://techcrunch.com</link>
+	</image>
+	<atom:link rel="search" type="application/opensearchdescription+xml" href="https://techcrunch.com/osd.xml" title="TechCrunch" />
+	<atom:link rel='hub' href='https://techcrunch.com/?pushpress=hub'/>
+	<item>
+		<title>Programming as craft</title>
+		<link>https://techcrunch.com/2018/02/24/programming-as-craft/?ncid=rss</link>
+		<comments>https://techcrunch.com/2018/02/24/programming-as-craft/#respond</comments>
+		<pubDate>Sat, 24 Feb 2018 15:04:06 +0000</pubDate>
+		<dc:creator><![CDATA[Danny Crichton]]></dc:creator>
+				<category><![CDATA[Developer]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[programming languages]]></category>
+		<category><![CDATA[software engineering]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1601909</guid>
+		<description><![CDATA[<img width="680" height="453" src="https://tctechcrunch2011.files.wordpress.com/2018/02/gettyimages-655977302.jpg?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2018/02/gettyimages-655977302.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2018/02/gettyimages-655977302.jpg?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2018/02/gettyimages-655977302.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2018/02/gettyimages-655977302.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2018/02/gettyimages-655977302.jpg?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" />&nbsp;Can programming be a craft? I was thinking about this as I was reading Matthew Crawford&#8217;s excellent book The World Beyond Your Head. Much like Crawford&#8217;s earlier work Shop Class as Soulcraft, he argues that craftsmanship is an activity that doesn&#8217;t just provide us with satisfaction, but also makes us fundamentally human by enchanting us with the world right around us. He&hellip; <a href="https://techcrunch.com/2018/02/24/programming-as-craft/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>https://techcrunch.com/2018/02/24/programming-as-craft/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2018/02/gettyimages-655977302.jpg?w=210&#038;h=158&#038;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2018/02/gettyimages-655977302.jpg" type="image/jpeg" medium="image"><media:title type="html">Programming%20as%20craft</media:title></media:content>
+		<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2018/02/gettyimages-655977302.jpg" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2018/02/gettyimages-655977302.jpg" medium="image">
+			<media:title type="html">Day Two Of The CeBIT 2017 Tech Fair</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/8c216d6030a712ef1dd35e2d6ffdf497?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">dancric</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Equity shot: Dropbox is going public, and Aaron Levie has some advice</title>
+		<link>https://techcrunch.com/2018/02/23/equity-shot-dropbox-is-going-public-and-aaron-levie-has-some-advice/?ncid=rss</link>
+		<comments>https://techcrunch.com/2018/02/23/equity-shot-dropbox-is-going-public-and-aaron-levie-has-some-advice/#respond</comments>
+		<pubDate>Sat, 24 Feb 2018 01:01:56 +0000</pubDate>
+		<dc:creator><![CDATA[Alex Wilhelm]]></dc:creator>
+				<category><![CDATA[TC]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1601861</guid>
+		<description><![CDATA[Hello and welcome back to Equity, TechCrunch&#8217;s venture capital-focused podcast where we unpack the numbers behind the headlines. At long last, after many predictions and even a private filing, Dropbox dropped its S-1 today. The filing marks the public beginning of the end of Dropbox&#8217;s life as a private company. Dropbox is going public! To mark the occasion, Katie Roof and Alex&hellip; <a href="https://techcrunch.com/2018/02/23/equity-shot-dropbox-is-going-public-and-aaron-levie-has-some-advice/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>https://techcrunch.com/2018/02/23/equity-shot-dropbox-is-going-public-and-aaron-levie-has-some-advice/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:content url="http://0.gravatar.com/avatar/06614e83d41d4440a4ab242c1d069ea4?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">alexjameswilhelm</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Nope, Android isn&#8217;t getting a system-wide dark mode (at least not yet)</title>
+		<link>https://techcrunch.com/2018/02/23/nope-android-isnt-getting-a-system-wide-dark-mode-at-least-not-yet/?ncid=rss</link>
+		<comments>https://techcrunch.com/2018/02/23/nope-android-isnt-getting-a-system-wide-dark-mode-at-least-not-yet/#respond</comments>
+		<pubDate>Fri, 23 Feb 2018 23:51:32 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+				<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Dark Mode]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1601843</guid>
+		<description><![CDATA[<img width="680" height="449" src="https://tctechcrunch2011.files.wordpress.com/2018/02/screen-shot-2018-02-23-at-6-44-53-pm.png?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2018/02/screen-shot-2018-02-23-at-6-44-53-pm.png?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2018/02/screen-shot-2018-02-23-at-6-44-53-pm.png?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2018/02/screen-shot-2018-02-23-at-6-44-53-pm.png?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2018/02/screen-shot-2018-02-23-at-6-44-53-pm.png?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2018/02/screen-shot-2018-02-23-at-6-44-53-pm.png?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" />&nbsp;According to a number of reports today, the next version of Android would include a &#8220;dark mode&#8221; &#8212; something that&#8217;s been a long-time feature request from those who prefer the dark-themed and power-saving option that&#8217;s already available in apps like YouTube and Twitter. Unfortunately, that&#8217;s not the case. News that Android was getting its own dark mode&hellip; <a href="https://techcrunch.com/2018/02/23/nope-android-isnt-getting-a-system-wide-dark-mode-at-least-not-yet/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>https://techcrunch.com/2018/02/23/nope-android-isnt-getting-a-system-wide-dark-mode-at-least-not-yet/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2018/02/screen-shot-2018-02-23-at-6-44-53-pm.png?w=210&#038;h=158&#038;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2018/02/screen-shot-2018-02-23-at-6-44-53-pm.png" type="image/png" medium="image"><media:title type="html">Nope%2C%20Android%20isn%26%238217%3Bt%20getting%20a%20system-wide%20dark%20mode%20%28at%20least%20not%26nbsp%3Byet%29</media:title></media:content>
+		<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2018/02/screen-shot-2018-02-23-at-6-44-53-pm.png" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2018/02/screen-shot-2018-02-23-at-6-44-53-pm.png" medium="image">
+			<media:title type="html">Screen Shot 2018-02-23 at 6.44.53 PM</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/5225bb627e112543aa03bf3b2958be3f?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">sarahintampa</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>The FCC&#8217;s revamped internet speed map lets you covet nearby exotic broadband</title>
+		<link>https://techcrunch.com/2018/02/23/the-fccs-revamped-internet-speed-map-lets-you-covet-nearby-exotic-broadband/?ncid=rss</link>
+		<comments>https://techcrunch.com/2018/02/23/the-fccs-revamped-internet-speed-map-lets-you-covet-nearby-exotic-broadband/#respond</comments>
+		<pubDate>Fri, 23 Feb 2018 23:45:03 +0000</pubDate>
+		<dc:creator><![CDATA[Devin Coldewey]]></dc:creator>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[FCC]]></category>
+		<category><![CDATA[broadband]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1601842</guid>
+		<description><![CDATA[<img width="680" height="445" src="https://tctechcrunch2011.files.wordpress.com/2018/02/broadband_map.png?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2018/02/broadband_map.png?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2018/02/broadband_map.png?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2018/02/broadband_map.png?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2018/02/broadband_map.png?w=768 768w, https://tctechcrunch2011.files.wordpress.com/2018/02/broadband_map.png 910w" sizes="(max-width: 680px) 100vw, 680px" />&nbsp;A big part of the FCC&#8217;s mandate is to ensure broadband is rolled out all over the country, and it issues regular reports along those lines &#8212; but there&#8217;s nothing presenting information visually to get the point across. A new FCC map of broadband access lets you browse block by block and see just what options are on offer, from gigabit fiber to DSL that would have been inadequate&hellip; <a href="https://techcrunch.com/2018/02/23/the-fccs-revamped-internet-speed-map-lets-you-covet-nearby-exotic-broadband/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>https://techcrunch.com/2018/02/23/the-fccs-revamped-internet-speed-map-lets-you-covet-nearby-exotic-broadband/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2018/02/broadband_map.png?w=210&#038;h=158&#038;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2018/02/broadband_map.png" type="image/png" medium="image"><media:title type="html">The%20FCC%26%238217%3Bs%20revamped%20internet%20speed%20map%20lets%20you%20covet%20nearby%20exotic%26nbsp%3Bbroadband</media:title></media:content>
+		<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2018/02/broadband_map.png" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2018/02/broadband_map.png" medium="image">
+			<media:title type="html">broadband_map</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/69fae9a8a3933fa91e81c086b8eee14a?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">devin</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2018/02/providers_map.png" medium="image" />
+	</item>
+		<item>
+		<title>Veil is private browsing for the ultra-paranoid</title>
+		<link>https://techcrunch.com/2018/02/23/veil-is-private-browsing-for-the-ultra-paranoid/?ncid=rss</link>
+		<comments>https://techcrunch.com/2018/02/23/veil-is-private-browsing-for-the-ultra-paranoid/#respond</comments>
+		<pubDate>Fri, 23 Feb 2018 22:19:16 +0000</pubDate>
+		<dc:creator><![CDATA[Devin Coldewey]]></dc:creator>
+				<category><![CDATA[Developer]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[private browsing]]></category>
+		<category><![CDATA[incognito mode]]></category>
+		<category><![CDATA[veil]]></category>
+		<category><![CDATA[MIT]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1601792</guid>
+		<description><![CDATA[<img width="680" height="330" src="https://tctechcrunch2011.files.wordpress.com/2014/07/13334048894_6e8b421c4e_o-e1438887295188.jpg?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2014/07/13334048894_6e8b421c4e_o-e1438887295188.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2014/07/13334048894_6e8b421c4e_o-e1438887295188.jpg?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2014/07/13334048894_6e8b421c4e_o-e1438887295188.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2014/07/13334048894_6e8b421c4e_o-e1438887295188.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2014/07/13334048894_6e8b421c4e_o-e1438887295188.jpg?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" />&nbsp;If you&#8217;re worried about someone finding out what you&#8217;re pointing your browser at, there are plenty of options for keeping it secret, with varying levels of difficulty and effectiveness. Veil takes things further than perhaps any other anonymous browsing method by masking the page you&#8217;re viewing not just from would-be attackers, but from your own operating system. <a href="https://techcrunch.com/2018/02/23/veil-is-private-browsing-for-the-ultra-paranoid/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>https://techcrunch.com/2018/02/23/veil-is-private-browsing-for-the-ultra-paranoid/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2014/07/13334048894_6e8b421c4e_o-e1438887295188.jpg?w=210&#038;h=158&#038;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/07/13334048894_6e8b421c4e_o-e1438887295188.jpg" type="image/jpeg" medium="image"><media:title type="html">Veil%20is%20private%20browsing%20for%20the%26nbsp%3Bultra-paranoid</media:title></media:content>
+		<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2014/07/13334048894_6e8b421c4e_o-e1438887295188.jpg" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/07/13334048894_6e8b421c4e_o-e1438887295188.jpg" medium="image">
+			<media:title type="html">13334048894_6e8b421c4e_o</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/69fae9a8a3933fa91e81c086b8eee14a?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">devin</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2018/02/domhide.png?w=300" medium="image" />
+	</item>
+		<item>
+		<title>The intensifying battle for Africa&#8217;s burgeoning tech landscape</title>
+		<link>https://techcrunch.com/2018/02/23/the-intensifying-battle-for-africas-burgeoning-tech-landscape/?ncid=rss</link>
+		<comments>https://techcrunch.com/2018/02/23/the-intensifying-battle-for-africas-burgeoning-tech-landscape/#respond</comments>
+		<pubDate>Fri, 23 Feb 2018 22:00:27 +0000</pubDate>
+		<dc:creator><![CDATA[Monique Maddy]]></dc:creator>
+				<category><![CDATA[Column]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[africa]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1599120</guid>
+		<description><![CDATA[<img width="680" height="680" src="https://tctechcrunch2011.files.wordpress.com/2015/06/africa.jpg?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2015/06/africa.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2015/06/africa.jpg?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2015/06/africa.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2015/06/africa.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2015/06/africa.jpg?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" />&nbsp;Long gone are the days when Africa was disparagingly regarded as the White Man&#8217;s Burden. Today, Africa is the continent with the youngest demographic in the world, on the brink of a technical renaissance &#8212; yet the world&#8217;s tech titans are floundering to understand and gain a foothold in this market. <a href="https://techcrunch.com/2018/02/23/the-intensifying-battle-for-africas-burgeoning-tech-landscape/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>https://techcrunch.com/2018/02/23/the-intensifying-battle-for-africas-burgeoning-tech-landscape/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2015/06/africa.jpg?w=210&#038;h=158&#038;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2015/06/africa.jpg" type="image/jpeg" medium="image"><media:title type="html">The%20intensifying%20battle%20for%20Africa%E2%80%99s%20burgeoning%20tech%26nbsp%3Blandscape</media:title></media:content>
+		<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2015/06/africa.jpg" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2015/06/africa.jpg" medium="image">
+			<media:title type="html">africa</media:title>
+		</media:content>
+
+		<media:content url="http://1.gravatar.com/avatar/a9e7d14400af5f9f34b617bf623ce44d?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">davidalanriggs</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>The Dropbox IPO filing is here</title>
+		<link>https://techcrunch.com/2018/02/23/the-dropbox-ipo-filing-is-here/?ncid=rss</link>
+		<comments>https://techcrunch.com/2018/02/23/the-dropbox-ipo-filing-is-here/#respond</comments>
+		<pubDate>Fri, 23 Feb 2018 20:43:49 +0000</pubDate>
+		<dc:creator><![CDATA[Katie Roof]]></dc:creator>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Finance]]></category>
+		<category><![CDATA[Fundings & Exits]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Dropbox]]></category>
+		<category><![CDATA[IPO]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1601786</guid>
+		<description><![CDATA[<img width="640" height="427" src="https://tctechcrunch2011.files.wordpress.com/2018/01/panzarino-drew-houston-dropbox-8.jpg?w=640" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2018/01/panzarino-drew-houston-dropbox-8.jpg 640w, https://tctechcrunch2011.files.wordpress.com/2018/01/panzarino-drew-houston-dropbox-8.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2018/01/panzarino-drew-houston-dropbox-8.jpg?w=300 300w" sizes="(max-width: 640px) 100vw, 640px" />&nbsp;It&#8217;s official, the Dropbox IPO filing is here. Going public is a huge milestone for Dropbox and has been one of the most anticipated tech IPOs for several years now. We knew that it had already filed confidentially, but the company has now unveiled its filing, meaning the actual IPO is likely very soon, probably late March. <a href="https://techcrunch.com/2018/02/23/the-dropbox-ipo-filing-is-here/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>https://techcrunch.com/2018/02/23/the-dropbox-ipo-filing-is-here/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2018/01/panzarino-drew-houston-dropbox-8.jpg?w=210&#038;h=158&#038;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2018/01/panzarino-drew-houston-dropbox-8.jpg" type="image/jpeg" medium="image"><media:title type="html">The%20Dropbox%20IPO%20filing%20is%26nbsp%3Bhere</media:title></media:content>
+		<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2018/01/panzarino-drew-houston-dropbox-8.jpg" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2018/01/panzarino-drew-houston-dropbox-8.jpg" medium="image">
+			<media:title type="html">panzarino-drew-houston-dropbox-8</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/824c7b4138c815864132412acba8a0ef?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">roofkatie</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Twitch&#8217;s first live game show &#8216;Stream On&#8217; debuts March 8</title>
+		<link>https://techcrunch.com/2018/02/23/twitchs-first-live-game-show-stream-on-debuts-march-8/?ncid=rss</link>
+		<comments>https://techcrunch.com/2018/02/23/twitchs-first-live-game-show-stream-on-debuts-march-8/#respond</comments>
+		<pubDate>Fri, 23 Feb 2018 20:25:25 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+				<category><![CDATA[Gaming]]></category>
+		<category><![CDATA[Media]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Twitch]]></category>
+		<category><![CDATA[live streaming]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1601755</guid>
+		<description><![CDATA[<img width="680" height="383" src="https://tctechcrunch2011.files.wordpress.com/2018/02/twitch_streamon_promo_video_01.png?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2018/02/twitch_streamon_promo_video_01.png?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2018/02/twitch_streamon_promo_video_01.png?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2018/02/twitch_streamon_promo_video_01.png?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2018/02/twitch_streamon_promo_video_01.png?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2018/02/twitch_streamon_promo_video_01.png?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" />&nbsp;Twitch&#8217;s new reality show featuring up-and-coming streamers will premiere on March 8, the company announced this morning, along with the list of the 14 personalities selected to participate. The video stars will be competing over an 11-week period for the chance to win $60,000, paid out as $5,000-per-month installments, meant to help fund their streaming careers. <a href="https://techcrunch.com/2018/02/23/twitchs-first-live-game-show-stream-on-debuts-march-8/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>https://techcrunch.com/2018/02/23/twitchs-first-live-game-show-stream-on-debuts-march-8/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2018/02/twitch_streamon_promo_video_01.png?w=210&#038;h=158&#038;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2018/02/twitch_streamon_promo_video_01.png" type="image/png" medium="image"><media:title type="html">Twitch%26%238217%3Bs%20first%20live%20game%20show%20%26%238216%3BStream%20On%26%238217%3B%20debuts%20March%26nbsp%3B8</media:title></media:content>
+		<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2018/02/twitch_streamon_promo_video_01.png" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2018/02/twitch_streamon_promo_video_01.png" medium="image">
+			<media:title type="html">Twitch_StreamOn_Promo_Video_01</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/5225bb627e112543aa03bf3b2958be3f?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">sarahintampa</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2018/02/twitch_streamon_participants.jpg?w=680" medium="image" />
+	</item>
+		<item>
+		<title>Can Ghostbusters copy Pokémon GO&#8217;s success with its own AR mobile game?</title>
+		<link>https://techcrunch.com/2018/02/23/can-ghostbusters-copy-pokemon-gos-success-with-its-own-ar-mobile-game/?ncid=rss</link>
+		<comments>https://techcrunch.com/2018/02/23/can-ghostbusters-copy-pokemon-gos-success-with-its-own-ar-mobile-game/#respond</comments>
+		<pubDate>Fri, 23 Feb 2018 20:01:59 +0000</pubDate>
+		<dc:creator><![CDATA[Lucas Matney]]></dc:creator>
+				<category><![CDATA[Augmented Reality]]></category>
+		<category><![CDATA[Gaming]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Pokémon Go]]></category>
+		<category><![CDATA[Ghostbusters]]></category>
+		<category><![CDATA[ARCore]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1601751</guid>
+		<description><![CDATA[<img width="680" height="380" src="https://tctechcrunch2011.files.wordpress.com/2018/02/screen-shot-2018-02-23-at-11-38-06-am.png?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2018/02/screen-shot-2018-02-23-at-11-38-06-am.png?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2018/02/screen-shot-2018-02-23-at-11-38-06-am.png?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2018/02/screen-shot-2018-02-23-at-11-38-06-am.png?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2018/02/screen-shot-2018-02-23-at-11-38-06-am.png?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2018/02/screen-shot-2018-02-23-at-11-38-06-am.png?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" />&nbsp;You&#8217;ll soon be able to trap Ghostbusters ghosts in augmented reality à la Pokémon GO. A short demo of the game Ghostbusters World was showcased at Google&#8217;s MWC booth, highlighting functionality made possible by the public release of Google&#8217;s ARCore augmented reality platform. Details are pretty slim for a wide release date other than it&#8217;s &#8220;coming 2018.&#8221; <a href="https://techcrunch.com/2018/02/23/can-ghostbusters-copy-pokemon-gos-success-with-its-own-ar-mobile-game/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>https://techcrunch.com/2018/02/23/can-ghostbusters-copy-pokemon-gos-success-with-its-own-ar-mobile-game/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2018/02/screen-shot-2018-02-23-at-11-38-06-am.png?w=210&#038;h=158&#038;crop=1" />
+
+		<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2018/02/screen-shot-2018-02-23-at-11-38-06-am.png" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2018/02/screen-shot-2018-02-23-at-11-38-06-am.png" medium="image">
+			<media:title type="html">Screen Shot 2018-02-23 at 11.38.06 AM</media:title>
+		</media:content>
+
+		<media:content url="http://1.gravatar.com/avatar/ac0471089769c31246f411dc339104f8?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">lucasmatney2015</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2018/02/feb-23-2018-07-43-16.gif" medium="image" />
+	</item>
+		<item>
+		<title>Jeremy Fiance, the 26-year-old founder of House Fund, ups his VC ambitions</title>
+		<link>https://techcrunch.com/2018/02/23/jeremy-fiance-the-26-year-old-founder-of-house-fund-ups-his-vc-ambitions/?ncid=rss</link>
+		<comments>https://techcrunch.com/2018/02/23/jeremy-fiance-the-26-year-old-founder-of-house-fund-ups-his-vc-ambitions/#respond</comments>
+		<pubDate>Fri, 23 Feb 2018 19:50:44 +0000</pubDate>
+		<dc:creator><![CDATA[Connie Loizos]]></dc:creator>
+				<category><![CDATA[TC]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1601720</guid>
+		<description><![CDATA[<img width="680" height="502" src="https://tctechcrunch2011.files.wordpress.com/2016/04/screen-shot-2016-04-16-at-6-56-53-pm.png?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2016/04/screen-shot-2016-04-16-at-6-56-53-pm.png?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2016/04/screen-shot-2016-04-16-at-6-56-53-pm.png?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2016/04/screen-shot-2016-04-16-at-6-56-53-pm.png?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2016/04/screen-shot-2016-04-16-at-6-56-53-pm.png?w=768 768w, https://tctechcrunch2011.files.wordpress.com/2016/04/screen-shot-2016-04-16-at-6-56-53-pm.png 1166w" sizes="(max-width: 680px) 100vw, 680px" />&nbsp;A little less than two years ago, we reported on Jeremy Fiance, a then 24-year-old recent UC Berkeley graduate who&#8217;d just taken the wraps off his new firm, The House Fund. It had secured $6 million in capital commitments from an array of individual investors, many of them venture capitalists, to fund startups coming out of UC Berkeley. At the time, Fiance argued persuasively that the&hellip; <a href="https://techcrunch.com/2018/02/23/jeremy-fiance-the-26-year-old-founder-of-house-fund-ups-his-vc-ambitions/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>https://techcrunch.com/2018/02/23/jeremy-fiance-the-26-year-old-founder-of-house-fund-ups-his-vc-ambitions/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2016/04/screen-shot-2016-04-16-at-6-56-53-pm.png?w=210&#038;h=158&#038;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2016/04/screen-shot-2016-04-16-at-6-56-53-pm.png" type="image/png" medium="image"><media:title type="html">Jeremy%20Fiance%2C%20the%2026-year-old%20founder%20of%20House%20Fund%2C%20ups%20his%20VC%26nbsp%3Bambitions</media:title></media:content>
+		<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2016/04/screen-shot-2016-04-16-at-6-56-53-pm.png" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2016/04/screen-shot-2016-04-16-at-6-56-53-pm.png" medium="image">
+			<media:title type="html">Jeremy Fiance</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/52bc07c5a4dde8dabe873328ca360e36?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">connieloizos</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Google needs to give the AirPods better competition</title>
+		<link>https://techcrunch.com/2018/02/23/google-needs-to-give-the-airpods-better-competition/?ncid=rss</link>
+		<comments>https://techcrunch.com/2018/02/23/google-needs-to-give-the-airpods-better-competition/#respond</comments>
+		<pubDate>Fri, 23 Feb 2018 19:08:00 +0000</pubDate>
+		<dc:creator><![CDATA[Lucas Matney]]></dc:creator>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[AirPods]]></category>
+		<category><![CDATA[pixel buds]]></category>
+		<category><![CDATA[headphones]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1601671</guid>
+		<description><![CDATA[<img width="680" height="453" src="https://tctechcrunch2011.files.wordpress.com/2016/09/img_8842.jpg?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2016/09/img_8842.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2016/09/img_8842.jpg?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2016/09/img_8842.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2016/09/img_8842.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2016/09/img_8842.jpg?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" />&nbsp;In the race for in-ear AI, Apple has the clear advantage despite the fact that their intelligent assistant is one of the dumbest of the bunch. Yesterday, reports emerged that Apple was working on a pair of follow-ups to its Airpods headphones that could bring them always-on Siri functionality as well as a splash-proof design. As we think about all the things that Apple could do right with&hellip; <a href="https://techcrunch.com/2018/02/23/google-needs-to-give-the-airpods-better-competition/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>https://techcrunch.com/2018/02/23/google-needs-to-give-the-airpods-better-competition/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2016/09/img_8842.jpg?w=210&#038;h=158&#038;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2016/09/img_8842.jpg" type="image/jpeg" medium="image"><media:title type="html">Google%20needs%20to%20give%20the%20AirPods%20better%26nbsp%3Bcompetition</media:title></media:content>
+		<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2016/09/img_8842.jpg" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2016/09/img_8842.jpg" medium="image">
+			<media:title type="html">AirPods</media:title>
+		</media:content>
+
+		<media:content url="http://1.gravatar.com/avatar/ac0471089769c31246f411dc339104f8?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">lucasmatney2015</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/11/dscf3160.jpg?w=680" medium="image" />
+	</item>
+		<item>
+		<title>Eden acquires OrgOrg, a social network for office managers</title>
+		<link>https://techcrunch.com/2018/02/23/eden-acquires-office-managers-social-network-orgorg/?ncid=rss</link>
+		<comments>https://techcrunch.com/2018/02/23/eden-acquires-office-managers-social-network-orgorg/#respond</comments>
+		<pubDate>Fri, 23 Feb 2018 18:55:27 +0000</pubDate>
+		<dc:creator><![CDATA[Jordan Crook]]></dc:creator>
+				<category><![CDATA[M&A]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[eden]]></category>
+		<category><![CDATA[orgorg]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1601727</guid>
+		<description><![CDATA[<img width="680" height="454" src="https://tctechcrunch2011.files.wordpress.com/2018/02/gettyimages-881484382.jpg?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2018/02/gettyimages-881484382.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2018/02/gettyimages-881484382.jpg?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2018/02/gettyimages-881484382.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2018/02/gettyimages-881484382.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2018/02/gettyimages-881484382.jpg?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" />&nbsp;Eden, the office management and tech support platform, has today announced the acquisition of OrgOrg, a social network for office managers to recommend, discuss, and review vendors and products. The terms of the deal were not disclosed. Eden founder and CEO Joe DuBey explained to TechCrunch that a growing number of on-boarding clients said that they had originally heard about Eden from&hellip; <a href="https://techcrunch.com/2018/02/23/eden-acquires-office-managers-social-network-orgorg/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>https://techcrunch.com/2018/02/23/eden-acquires-office-managers-social-network-orgorg/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2018/02/gettyimages-881484382.jpg?w=210&#038;h=158&#038;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2018/02/gettyimages-881484382.jpg" type="image/jpeg" medium="image"><media:title type="html">Eden%20acquires%20OrgOrg%2C%20a%20social%20network%20for%20office%26nbsp%3Bmanagers</media:title></media:content>
+		<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2018/02/gettyimages-881484382.jpg" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2018/02/gettyimages-881484382.jpg" medium="image">
+			<media:title type="html">Young people work in modern office.</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/3311dfd2a72b8ea26707777a79acda77?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">jordanrcrook</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2018/02/eden-orgorg-large-graphic.png" medium="image" />
+	</item>
+		<item>
+		<title>Public media will resurrect Gothamist, LAist and DCist</title>
+		<link>https://techcrunch.com/2018/02/23/wnyc-acquires-gothamist/?ncid=rss</link>
+		<comments>https://techcrunch.com/2018/02/23/wnyc-acquires-gothamist/#respond</comments>
+		<pubDate>Fri, 23 Feb 2018 18:09:07 +0000</pubDate>
+		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
+				<category><![CDATA[Media]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Gothamist]]></category>
+		<category><![CDATA[WNYC]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1601701</guid>
+		<description><![CDATA[<img width="680" height="383" src="https://tctechcrunch2011.files.wordpress.com/2017/06/gettyimages-494545485.jpg?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2017/06/gettyimages-494545485.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2017/06/gettyimages-494545485.jpg?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2017/06/gettyimages-494545485.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2017/06/gettyimages-494545485.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2017/06/gettyimages-494545485.jpg?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" />&nbsp;Local news sites Gothamist, LAist and DCist are coming back from the dead. Their assets (including story archives) have been acquired by three public radio companies &#8212; WNYC in New York, KPCC in Southern California and WAMU in Washington, D.C.
+According to the acquisition announcement, the deal comes after a competitive sale process, and it was funded by &#8220;generous philanthropic&#8230; <a href="https://techcrunch.com/2018/02/23/wnyc-acquires-gothamist/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>https://techcrunch.com/2018/02/23/wnyc-acquires-gothamist/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/06/gettyimages-494545485.jpg?w=210&#038;h=158&#038;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/06/gettyimages-494545485.jpg" type="image/jpeg" medium="image"><media:title type="html">Public%20media%20will%20resurrect%20Gothamist%2C%20LAist%20and%26nbsp%3BDCist</media:title></media:content>
+		<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/06/gettyimages-494545485.jpg" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/06/gettyimages-494545485.jpg" medium="image">
+			<media:title type="html">New York City Aerial Skyline at Dusk, USA</media:title>
+		</media:content>
+
+		<media:content url="http://1.gravatar.com/avatar/72b358648f4587cc2a11895c32b8e979?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">anthha</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Ledger is working on new native apps for its cryptocurrency hardware wallet</title>
+		<link>https://techcrunch.com/2018/02/23/ledger-is-working-on-new-native-apps-for-its-cryptocurrency-hardware-wallet/?ncid=rss</link>
+		<comments>https://techcrunch.com/2018/02/23/ledger-is-working-on-new-native-apps-for-its-cryptocurrency-hardware-wallet/#respond</comments>
+		<pubDate>Fri, 23 Feb 2018 17:59:39 +0000</pubDate>
+		<dc:creator><![CDATA[Romain Dillet]]></dc:creator>
+				<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Ledger]]></category>
+		<category><![CDATA[hardware wallet]]></category>
+		<category><![CDATA[Ledger Nano S]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1601705</guid>
+		<description><![CDATA[<img width="680" height="272" src="https://tctechcrunch2011.files.wordpress.com/2018/02/mockup2.png?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2018/02/mockup2.png?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2018/02/mockup2.png?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2018/02/mockup2.png?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2018/02/mockup2.png?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2018/02/mockup2.png?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" />&nbsp;French startup Ledger is making some of the most secure cryptocurrency hardware wallets out there. But the company&#8217;s apps aren&#8217;t that great. That&#8217;s why the company announced that Ledger has been working on brand new native apps for all desktop and mobile platforms. Right now, Ledger relies on Google Chrome for its desktop apps. At some point, Google wanted to promote web apps&hellip; <a href="https://techcrunch.com/2018/02/23/ledger-is-working-on-new-native-apps-for-its-cryptocurrency-hardware-wallet/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>https://techcrunch.com/2018/02/23/ledger-is-working-on-new-native-apps-for-its-cryptocurrency-hardware-wallet/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2018/02/mockup2.png?w=210&#038;h=158&#038;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2018/02/mockup2.png" type="image/png" medium="image"><media:title type="html">Ledger%20is%20working%20on%20new%20native%20apps%20for%20its%20cryptocurrency%20hardware%26nbsp%3Bwallet</media:title></media:content>
+		<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2018/02/mockup2.png" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2018/02/mockup2.png" medium="image">
+			<media:title type="html">mockup2</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/2e71de62bf8a99d74a58f1546494fe82?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">romaindillet</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2018/02/dashboard-1.png?w=150" medium="image" />
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2018/02/ledger-wallet-mobile-account-499x1024.png?w=73" medium="image" />
+	</item>
+		<item>
+		<title>Microsoft and Xiaomi to collaborate on AI, cloud computing and hardware</title>
+		<link>https://techcrunch.com/2018/02/23/microsoft-and-xioami-to-collaborate-on-ai-cloud-computing-and-hardware/?ncid=rss</link>
+		<comments>https://techcrunch.com/2018/02/23/microsoft-and-xioami-to-collaborate-on-ai-cloud-computing-and-hardware/#respond</comments>
+		<pubDate>Fri, 23 Feb 2018 17:03:41 +0000</pubDate>
+		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Asia]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[computing]]></category>
+		<category><![CDATA[technology]]></category>
+		<category><![CDATA[Home Automation]]></category>
+		<category><![CDATA[Xiaomi]]></category>
+		<category><![CDATA[Windows Phone]]></category>
+		<category><![CDATA[Windows 10]]></category>
+		<category><![CDATA[smartphones]]></category>
+		<category><![CDATA[Cortana]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[microsoft windows]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1601668</guid>
+		<description><![CDATA[<img width="680" height="453" src="https://tctechcrunch2011.files.wordpress.com/2015/07/xiaomi.jpg?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2015/07/xiaomi.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2015/07/xiaomi.jpg?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2015/07/xiaomi.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2015/07/xiaomi.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2015/07/xiaomi.jpg?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" />&nbsp;After Microsoft signed a deal to test Windows 10 on Xiaomi devices in 2015 and then Xiaomi bought a trove of patents to help run other Microsoft services on its devices in 2016, today the two companies announced another chapter in its collaboration. Xiaomi and Microsoft have signed a Strategic Framework Memorandum of Understanding (MoU) to work more closely in the areas of cloud computing,&hellip; <a href="https://techcrunch.com/2018/02/23/microsoft-and-xioami-to-collaborate-on-ai-cloud-computing-and-hardware/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>https://techcrunch.com/2018/02/23/microsoft-and-xioami-to-collaborate-on-ai-cloud-computing-and-hardware/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2015/07/xiaomi.jpg?w=210&#038;h=158&#038;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2015/07/xiaomi.jpg" type="image/jpeg" medium="image"><media:title type="html">Microsoft%20and%20Xiaomi%20to%20collaborate%20on%20AI%2C%20cloud%20computing%20and%26nbsp%3Bhardware</media:title></media:content>
+		<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2015/07/xiaomi.jpg" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2015/07/xiaomi.jpg" medium="image">
+			<media:title type="html">xiaomi</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/6648ec93043f0f368091adece63c6d52?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">ingridlunden</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Tesla wants to install chargers at the office</title>
+		<link>https://techcrunch.com/2018/02/23/tesla-wants-to-install-chargers-at-the-office/?ncid=rss</link>
+		<comments>https://techcrunch.com/2018/02/23/tesla-wants-to-install-chargers-at-the-office/#respond</comments>
+		<pubDate>Fri, 23 Feb 2018 16:42:42 +0000</pubDate>
+		<dc:creator><![CDATA[Jordan Crook]]></dc:creator>
+				<category><![CDATA[Automotive]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[Tesla]]></category>
+		<category><![CDATA[electric vehicles]]></category>
+		<category><![CDATA[Model 3]]></category>
+		<category><![CDATA[workplace charging]]></category>
+		<category><![CDATA[wall connector]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1601660</guid>
+		<description><![CDATA[<img width="680" height="453" src="https://tctechcrunch2011.files.wordpress.com/2016/06/shutterstock_284409203a.jpg?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2016/06/shutterstock_284409203a.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2016/06/shutterstock_284409203a.jpg?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2016/06/shutterstock_284409203a.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2016/06/shutterstock_284409203a.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2016/06/shutterstock_284409203a.jpg?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" />&nbsp;Tesla expects to sell 100,000 electric vehicles in 2018. But electric vehicles don&#8217;t make much sense unless chargers are easily accessible and convenient. That&#8217;s why Tesla is introducing the Workplace Charging program. It will allow offices and business to apply for a Wall Connector to be installed in the company garage or parking lot. And, except for the actual electricity used&hellip; <a href="https://techcrunch.com/2018/02/23/tesla-wants-to-install-chargers-at-the-office/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>https://techcrunch.com/2018/02/23/tesla-wants-to-install-chargers-at-the-office/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2016/06/shutterstock_284409203a.jpg?w=210&#038;h=158&#038;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2016/06/shutterstock_284409203a.jpg" type="image/jpeg" medium="image"><media:title type="html">Tesla%20wants%20to%20install%20chargers%20at%20the%26nbsp%3Boffice</media:title></media:content>
+		<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2016/06/shutterstock_284409203a.jpg" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2016/06/shutterstock_284409203a.jpg" medium="image">
+			<media:title type="html">tesla</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/3311dfd2a72b8ea26707777a79acda77?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">jordanrcrook</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Original Content podcast: Netflix&#8217;s &#8216;Mute&#8217; is a big disappointment</title>
+		<link>https://techcrunch.com/2018/02/23/original-content-mute/?ncid=rss</link>
+		<comments>https://techcrunch.com/2018/02/23/original-content-mute/#respond</comments>
+		<pubDate>Fri, 23 Feb 2018 16:04:13 +0000</pubDate>
+		<dc:creator><![CDATA[Anthony Ha,Darrell Etherington,Jordan Crook]]></dc:creator>
+				<category><![CDATA[Entertainment]]></category>
+		<category><![CDATA[Media]]></category>
+		<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Netflix]]></category>
+		<category><![CDATA[Mute]]></category>
+		<category><![CDATA[original content podcast]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1601644</guid>
+		<description><![CDATA[<img width="680" height="454" src="https://tctechcrunch2011.files.wordpress.com/2018/01/mute_unit_01772f1r.jpg?w=680" class="attachment-large size-large wp-post-image" alt="Mute" srcset="https://tctechcrunch2011.files.wordpress.com/2018/01/mute_unit_01772f1r.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2018/01/mute_unit_01772f1r.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2018/01/mute_unit_01772f1r.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2018/01/mute_unit_01772f1r.jpg?w=768 768w, https://tctechcrunch2011.files.wordpress.com/2018/01/mute_unit_01772f1r.jpg 1000w" sizes="(max-width: 680px) 100vw, 680px" />&nbsp;Mute is the latest film from Duncan Jones, the director of Moon and Source Code. He&#8217;s called it his Don Quixote, a passion project that he&#8217;s been pursuing for well over a decade. The movie goes live on Netflix today, so Jordan Crook, Darrell Etherington and Anthony Ha &#8212; your hosts on the Original Content podcast &#8212; all checked it out. We&#8217;re fans of Jones&#8217;&hellip; <a href="https://techcrunch.com/2018/02/23/original-content-mute/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>https://techcrunch.com/2018/02/23/original-content-mute/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2018/01/mute_unit_01772f1r.jpg?w=210&#038;h=158&#038;crop=1" />
+
+		<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2018/01/mute_unit_01772f1r.jpg" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2018/01/mute_unit_01772f1r.jpg" medium="image">
+			<media:title type="html">Mute</media:title>
+		</media:content>
+
+		<media:content url="http://1.gravatar.com/avatar/72b358648f4587cc2a11895c32b8e979?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">anthha</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Google publicly launches ARCore 1.0 on 13 phones, will begin expanding Lens preview</title>
+		<link>https://techcrunch.com/2018/02/23/google-publicly-launches-arcore-1-0-on-13-phones-will-begin-expanding-lens-availability/?ncid=rss</link>
+		<comments>https://techcrunch.com/2018/02/23/google-publicly-launches-arcore-1-0-on-13-phones-will-begin-expanding-lens-availability/#respond</comments>
+		<pubDate>Fri, 23 Feb 2018 16:01:25 +0000</pubDate>
+		<dc:creator><![CDATA[Lucas Matney]]></dc:creator>
+				<category><![CDATA[Augmented Reality]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[ARCore]]></category>
+		<category><![CDATA[google lens]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1601633</guid>
+		<description><![CDATA[<img width="634" height="348" src="https://tctechcrunch2011.files.wordpress.com/2018/02/feb-23-2018-07-49-59.gif?w=634" class="attachment-large size-large wp-post-image" alt="" />&nbsp;After playing around in the experimental phase, Google is bringing its ARCore augmented reality platform to its 1.0 release with availability on over 100 million Android devices. If you have a new Pixel phone, you may have been able to play with Google&#8217;s AR Stickers that brought Star Wars and Stranger Things into the real world. With ARCore&#8217;s launch today, developers are now able&hellip; <a href="https://techcrunch.com/2018/02/23/google-publicly-launches-arcore-1-0-on-13-phones-will-begin-expanding-lens-availability/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>https://techcrunch.com/2018/02/23/google-publicly-launches-arcore-1-0-on-13-phones-will-begin-expanding-lens-availability/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2018/02/feb-23-2018-07-49-59.gif?w=210&#038;h=158&#038;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2018/02/feb-23-2018-07-49-59.gif" type="image/gif" medium="image"><media:title type="html">Google%20publicly%20launches%20ARCore%201.0%20on%2013%20phones%2C%20will%20begin%20expanding%20Lens%26nbsp%3Bpreview</media:title></media:content>
+		<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2018/02/feb-23-2018-07-49-59.gif" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2018/02/feb-23-2018-07-49-59.gif" medium="image">
+			<media:title type="html">Feb-23-2018 07-49-59</media:title>
+		</media:content>
+
+		<media:content url="http://1.gravatar.com/avatar/ac0471089769c31246f411dc339104f8?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">lucasmatney2015</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2018/02/feb-23-2018-07-43-16.gif" medium="image" />
+	</item>
+		<item>
+		<title>Google adopts a new approach to bring its AR service to China</title>
+		<link>https://techcrunch.com/2018/02/23/google-arcore-china/?ncid=rss</link>
+		<comments>https://techcrunch.com/2018/02/23/google-arcore-china/#respond</comments>
+		<pubDate>Fri, 23 Feb 2018 16:00:02 +0000</pubDate>
+		<dc:creator><![CDATA[Jon Russell]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Asia]]></category>
+		<category><![CDATA[Augmented Reality]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[ARCore]]></category>
+		<category><![CDATA[Tencent]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1601597</guid>
+		<description><![CDATA[<img width="680" height="454" src="https://tctechcrunch2011.files.wordpress.com/2017/10/gettyimages-83781196.jpg?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2017/10/gettyimages-83781196.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2017/10/gettyimages-83781196.jpg?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2017/10/gettyimages-83781196.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2017/10/gettyimages-83781196.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2017/10/gettyimages-83781196.jpg?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" />&nbsp;Google has adopted a novel way to circumvent China&#8217;s internet censorship system, which continues to block its services, after it partnered directly with three OEMs to bring its augmented reality service to the country. ARCore, the company&#8217;s augmented reality SDK for Android, launched in full today following its announcement in November. Google says there are 100 million devices&hellip; <a href="https://techcrunch.com/2018/02/23/google-arcore-china/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>https://techcrunch.com/2018/02/23/google-arcore-china/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/10/gettyimages-83781196.jpg?w=210&#038;h=158&#038;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/10/gettyimages-83781196.jpg" type="image/jpeg" medium="image"><media:title type="html">Google%20adopts%20a%20new%20approach%20to%20bring%20its%20AR%20service%20to%26nbsp%3BChina</media:title></media:content>
+		<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/10/gettyimages-83781196.jpg" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/10/gettyimages-83781196.jpg" medium="image">
+			<media:title type="html">Chinese flag</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/5f5876ccfd72ee5c2620b86429e8caf5?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">Jon</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2018/02/opgif.gif?w=680" medium="image" />
+	</item>
+		<item>
+		<title>Archos announces a cryptocurrency hardware wallet (yes, Archos)</title>
+		<link>https://techcrunch.com/2018/02/23/archos-is-launching-a-cryptocurrency-hardware-wallet-yes-archos/?ncid=rss</link>
+		<comments>https://techcrunch.com/2018/02/23/archos-is-launching-a-cryptocurrency-hardware-wallet-yes-archos/#respond</comments>
+		<pubDate>Fri, 23 Feb 2018 15:59:24 +0000</pubDate>
+		<dc:creator><![CDATA[Romain Dillet]]></dc:creator>
+				<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[mobile world congress]]></category>
+		<category><![CDATA[Safe-T mini]]></category>
+		<category><![CDATA[MWC 2018]]></category>
+		<category><![CDATA[mwc]]></category>
+		<category><![CDATA[Archos]]></category>
+		<category><![CDATA[Mobile World Congress 2018]]></category>
+		<category><![CDATA[Safe-T]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1601647</guid>
+		<description><![CDATA[<img width="680" height="383" src="https://tctechcrunch2011.files.wordpress.com/2018/02/archos-safe-t-mini.jpg?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2018/02/archos-safe-t-mini.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2018/02/archos-safe-t-mini.jpg?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2018/02/archos-safe-t-mini.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2018/02/archos-safe-t-mini.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2018/02/archos-safe-t-mini.jpg?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" />&nbsp;Remember Archos? Yes, that Archos, the company that made portable multimedia players (PMPs) with below average touch screen ten years ago. The company is still around, selling cheap Android phones, cheap tablets, cheap drones and more. And yet, for the first time in many years, I&#8217;m excited by an Archos product again. The company announced (via Next INpact) a cryptocurrency hardware&hellip; <a href="https://techcrunch.com/2018/02/23/archos-is-launching-a-cryptocurrency-hardware-wallet-yes-archos/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>https://techcrunch.com/2018/02/23/archos-is-launching-a-cryptocurrency-hardware-wallet-yes-archos/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2018/02/archos-safe-t-mini.jpg?w=210&#038;h=158&#038;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2018/02/archos-safe-t-mini.jpg" type="image/jpeg" medium="image"><media:title type="html">Archos%20announces%20a%20cryptocurrency%20hardware%20wallet%20%28yes%2C%26nbsp%3BArchos%29</media:title></media:content>
+		<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2018/02/archos-safe-t-mini.jpg" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2018/02/archos-safe-t-mini.jpg" medium="image">
+			<media:title type="html">Archos Safe-T mini</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/2e71de62bf8a99d74a58f1546494fe82?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">romaindillet</media:title>
+		</media:content>
+	</item>
+	</channel>
+</rss>
