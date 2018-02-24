@@ -379,7 +379,6 @@ var framework7_feeds = {
       virtualList: false,
       pageBackLinkText: 'Back',
       popupCloseLinkText: 'Close',
-      pageTitle: undefined,
       renderList: null,
       renderVirtualListItem: null,
       renderItemPage: null,
@@ -393,6 +392,7 @@ var framework7_feeds = {
         return new Feeds(app, params);
       },
       get: function get(selector) {
+        if (selector instanceof Feeds) { return selector; }
         var $el = app.$(selector);
         if ($el.length > 0 && $el[0] && $el[0].f7Feeds) {
           return $el[0].f7Feeds;
@@ -400,6 +400,10 @@ var framework7_feeds = {
         return undefined;
       },
       destroy: function destroy(selector) {
+        if (selector instanceof Feeds) {
+          if (selector.destroy) { selector.destroy(); }
+          return;
+        }
         var $el = app.$(selector);
         if (!$el.length) { return; }
         if ($el[0] && $el[0].f7Feeds && $el[0].f7Feeds.destroy) {
