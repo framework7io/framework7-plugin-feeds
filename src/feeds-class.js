@@ -93,7 +93,7 @@ export default function (Framework7Class) {
         items: [],
       };
       const items = channel.find('item');
-      items.each((index, el) => {
+      items.each((el, index) => {
         const item = $(el);
         const itemData = {
           title: item.children('title').text().replace('<![CDATA[', '').replace(']]>', ''),
