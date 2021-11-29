@@ -1,12 +1,13 @@
 /**
- * Framework7 Plugin Feeds 2.0.0
+ * Framework7 Plugin Feeds 3.0.0
  * Framework7 Feeds plugin brings easy RSS feeds integration into Framework7 app
  * http://framework7.io/plugins/
  *
- * Copyright 2014-2018 Vladimir Kharlampidi
+ * Copyright 2014-2021 Vladimir Kharlampidi
  *
  * Released under the MIT License
  *
- * Released on: February 24, 2018
+ * Released on: November 29, 2021
  */
+
 .feeds-page .block img{max-width:100%;height:auto}

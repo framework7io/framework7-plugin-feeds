@@ -1,6 +1,6 @@
 {
   "name": "framework7-plugin-feeds",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "Framework7 Feeds plugin brings easy RSS feeds integration into Framework7 app",
   "main": "dist/framework7.feeds.js",
   "jsnext:main": "dist/framework7.feeds.esm.js",

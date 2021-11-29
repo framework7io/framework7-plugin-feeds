@@ -1,16 +1,16 @@
 /**
- * Framework7 Plugin Feeds 2.0.0
+ * Framework7 Plugin Feeds 3.0.0
  * Framework7 Feeds plugin brings easy RSS feeds integration into Framework7 app
  * http://framework7.io/plugins/
  *
- * Copyright 2014-2018 Vladimir Kharlampidi
+ * Copyright 2014-2021 Vladimir Kharlampidi
  *
  * Released under the MIT License
  *
- * Released on: February 24, 2018
+ * Released on: November 29, 2021
  */
 
-var FeedsClassConstructor = function (Framework7Class) {
+function FeedsClassConstructor (Framework7Class) {
   return class Feeds extends Framework7Class {
     constructor(app, params) {
       super(params, [app]);
@@ -105,7 +105,7 @@ var FeedsClassConstructor = function (Framework7Class) {
         items: [],
       };
       const items = channel.find('item');
-      items.each((index, el) => {
+      items.each((el) => {
         const item = $(el);
         const itemData = {
           title: item.children('title').text().replace('<![CDATA[', '').replace(']]>', ''),
@@ -117,7 +117,7 @@ var FeedsClassConstructor = function (Framework7Class) {
           index: newData.items.length,
         };
         if (feeds.params.customItemFields && feeds.params.customItemFields.length > 0) {
-          item.children().each((childIndex, childEl) => {
+          item.children().each((childEl) => {
             for (let i = 0; i < feeds.params.customItemFields.length; i += 1) {
               const fieldName = feeds.params.customItemFields[i].split('||')[0];
               const fieldAttr = feeds.params.customItemFields[i].split('||')[1];
@@ -402,7 +402,7 @@ var FeedsClassConstructor = function (Framework7Class) {
       feeds.destroyed = true;
     }
   };
-};
+}
 
 let Feeds;
 
@@ -463,7 +463,7 @@ var framework7_feeds = {
       const app = page.app;
       const $ = app.$;
       const Utils = app.utils;
-      page.$el.find('.feeds-init').each((index, feedsEl) => {
+      page.$el.find('.feeds-init').each((feedsEl) => {
         const $el = $(feedsEl);
         app.feeds.create(Utils.extend(
           { el: feedsEl },
@@ -473,11 +473,11 @@ var framework7_feeds = {
     },
     pageBeforeRemove(page) {
       const app = page.app;
-      page.$el.find('.feeds-init').each((index, feedsEl) => {
+      page.$el.find('.feeds-init').each((feedsEl) => {
         app.feeds.destroy(feedsEl);
       });
     },
   },
 };
 
-export default framework7_feeds;
+export { framework7_feeds as default };
