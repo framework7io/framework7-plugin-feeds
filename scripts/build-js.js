@@ -1,119 +1,62 @@
 /* eslint import/no-extraneous-dependencies: ["error", {"devDependencies": true}] */
 /* eslint no-console: "off" */
-/* eslint import/no-unresolved: "off" */
-/* eslint global-require: "off" */
-/* eslint no-param-reassign: ["error", { "props": false }] */
 
-const gulp = require('gulp');
-const rollup = require('rollup-stream');
-const buble = require('rollup-plugin-buble');
-const source = require('vinyl-source-stream');
-const buffer = require('vinyl-buffer');
-const replace = require('rollup-plugin-replace');
-const resolve = require('rollup-plugin-node-resolve');
-const header = require('gulp-header');
-const uglify = require('gulp-uglify');
-const sourcemaps = require('gulp-sourcemaps');
-const rename = require('gulp-rename');
-const gulpif = require('gulp-if');
-const commonjs = require('rollup-plugin-commonjs');
+const fs = require('fs');
+const rollup = require('rollup');
+const { minify } = require('terser');
 const banner = require('./banner.js');
 
-let cache;
-
-function es(cb) {
+async function es(cb) {
   const env = process.env.NODE_ENV || 'development';
-  const target = process.env.TARGET || 'universal';
-  const format = 'es';
-  let cbs = 0;
 
-  rollup({
+  const bundle = await rollup.rollup({
     input: './src/framework7.feeds.js',
-    plugins: [
-      replace({
-        delimiters: ['', ''],
-        'process.env.NODE_ENV': JSON.stringify(env), // or 'production'
-        'process.env.TARGET': JSON.stringify(target),
-        'process.env.FORMAT': JSON.stringify(format),
-      }),
-      resolve({ jsnext: true }),
-      commonjs(),
-    ],
+  });
+
+  await bundle.write({
     format: 'es',
     name: 'Framework7Feeds',
+    file: `${env === 'development' ? 'build' : 'dist'}/framework7.feeds.esm.js`,
     strict: true,
     sourcemap: false,
     banner,
-  })
-    .on('error', (err) => {
-      if (cb) cb();
-      console.log(err.toString());
-    })
-    .pipe(source('framework7.feeds.js', './src'))
-    .pipe(buffer())
-    .pipe(rename('framework7.feeds.esm.js'))
-    .pipe(gulp.dest(`./${env === 'development' ? 'build' : 'dist'}/`))
-    .on('end', () => {
-      cbs += 1;
-      if (cbs === 2 && cb) cb();
-    });
-}
-function umd(cb) {
-  const env = process.env.NODE_ENV || 'development';
-  const target = process.env.TARGET || 'universal';
-  const format = process.env.FORMAT || 'umd';
+  });
 
-  rollup({
+  if (cb) cb();
+}
+async function umd(cb) {
+  const env = process.env.NODE_ENV || 'development';
+
+  const bundle = await rollup.rollup({
     input: './src/framework7.feeds.js',
-    plugins: [
-      replace({
-        delimiters: ['', ''],
-        'process.env.NODE_ENV': JSON.stringify(env), // or 'production'
-        'process.env.TARGET': JSON.stringify(target),
-        'process.env.FORMAT': JSON.stringify(format),
-      }),
-      resolve({ jsnext: true }),
-      commonjs(),
-      buble(),
-    ],
+  });
+
+  const result = await bundle.write({
     format: 'umd',
     name: 'Framework7Feeds',
+    file: `${env === 'development' ? 'build' : 'dist'}/framework7.feeds.js`,
     strict: true,
-    sourcemap: env === 'development',
+    sourcemap: true,
     banner,
-    cache,
-  })
-    .on('error', (err) => {
-      if (cb) cb();
-      console.log(err.toString());
-    })
-    .on('bundle', (bundle) => {
-      cache = bundle;
-    })
-    .pipe(source('framework7.feeds.js', './src'))
-    .pipe(buffer())
-    .pipe(gulpif(env === 'development', sourcemaps.init({ loadMaps: true })))
-    .pipe(gulpif(env === 'development', sourcemaps.write('./')))
-    .pipe(gulp.dest(`./${env === 'development' ? 'build' : 'dist'}/`))
-    .on('end', () => {
-      if (env === 'development') {
-        if (cb) cb();
-        return;
-      }
-      // Minified version
-      gulp.src('./dist/framework7.feeds.js')
-        .pipe(sourcemaps.init())
-        .pipe(uglify())
-        .pipe(header(banner))
-        .pipe(rename((filePath) => {
-          filePath.basename += '.min';
-        }))
-        .pipe(sourcemaps.write('./'))
-        .pipe(gulp.dest('./dist'))
-        .on('end', () => {
-          cb();
-        });
-    });
+  });
+
+  const output = result.output[0];
+
+  const minified = await minify(output.code, {
+    sourceMap: {
+      content: output.map,
+      filename: 'framework7.feeds.min.js',
+      url: 'framework7.feeds.min.js.map',
+    },
+    output: {
+      preamble: banner,
+    },
+  });
+
+  fs.writeFileSync(`${env === 'development' ? 'build' : 'dist'}/framework7.feeds.min.js`, minified.code);
+  fs.writeFileSync(`${env === 'development' ? 'build' : 'dist'}/framework7.feeds.min.js.map`, minified.map);
+
+  if (cb) cb();
 }
 function buildJs(cb) {
   const env = process.env.NODE_ENV || 'development';

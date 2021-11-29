@@ -3,62 +3,32 @@
 /* eslint import/no-unresolved: "off" */
 /* eslint global-require: "off" */
 /* eslint no-param-reassign: ["error", { "props": false }] */
-
-const gulp = require('gulp');
+const path = require('path');
 const fs = require('fs');
-const modifyFile = require('gulp-modify-file');
-const less = require('gulp-less');
-const autoprefixer = require('gulp-autoprefixer');
-const header = require('gulp-header');
-const rename = require('gulp-rename');
-const cleanCSS = require('gulp-clean-css');
+const less = require('./utils/less');
+const autoprefixer = require('./utils/autoprefixer');
+const cleanCSS = require('./utils/clean-css');
 const banner = require('./banner.js');
 
-function build(cb) {
+async function build(cb) {
   const env = process.env.NODE_ENV || 'development';
-  gulp.src('./src/framework7.feeds.less')
-    .pipe(less())
-    .on('error', (err) => {
-      if (cb) cb();
-      console.log(err.toString());
-    })
-    .pipe(autoprefixer({
-      cascade: false,
-    }))
-    .on('error', (err) => {
-      if (cb) cb();
-      console.log(err.toString());
-    })
-    .pipe(header(banner))
-    .pipe(gulp.dest(`./${env === 'development' ? 'build' : 'dist'}/`))
-    .on('end', () => {
-      if (env === 'development') {
-        if (cb) cb();
-        return;
-      }
-      gulp.src('./dist/framework7.feeds.css')
-        .pipe(cleanCSS({
-          advanced: false,
-          aggressiveMerging: false,
-        }))
-        .pipe(header(banner))
-        .pipe(rename((filePath) => {
-          filePath.basename += '.min';
-        }))
-        .pipe(gulp.dest('./dist/'))
-        .on('end', () => {
-          if (cb) cb();
-        });
-    });
+
+  const lessContent = fs.readFileSync(path.resolve(__dirname, '../src/framework7.feeds.less'), 'utf-8');
+  const cssContent = await autoprefixer(await less(lessContent, path.resolve(__dirname, '../src/core')));
+
+  // Write file
+  fs.writeFileSync(`${env === 'development' ? 'build' : 'dist'}/framework7.feeds.css`, `${banner}\n${cssContent}`);
+
+  const minifiedContent = await cleanCSS(cssContent);
+
+  fs.writeFileSync(`${env === 'development' ? 'build' : 'dist'}/framework7.feeds.min.css`, `${banner}\n${minifiedContent}`);
+
+  if (cb) cb();
 }
 
 
 function buildLess(cb) {
-  const env = process.env.NODE_ENV || 'development';
-
-  build(() => {
-    if (cb) cb();
-  });
+  build(cb);
 }
 
 module.exports = buildLess;

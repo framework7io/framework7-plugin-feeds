@@ -20,11 +20,11 @@ gulp.task('demo', (cb) => {
   buildDemo(cb);
 });
 
-gulp.task('build', ['js', 'less']);
+gulp.task('build', gulp.series('js', 'less'));
 
 gulp.task('watch', () => {
-  gulp.watch('./src/*.js', ['js']);
-  gulp.watch('./src/*.less', ['less']);
+  gulp.watch('./src/*.js', gulp.series('js'));
+  gulp.watch('./src/*.less', gulp.series('less'));
 });
 
 gulp.task('connect', () => {
@@ -39,6 +39,6 @@ gulp.task('open', () => {
   gulp.src('./demo/index.html').pipe(gopen({ uri: 'http://localhost:3000/demo/' }));
 });
 
-gulp.task('server', ['watch', 'connect', 'open']);
+gulp.task('server', gulp.series('watch', 'connect', 'open'));
 
-gulp.task('default', ['server']);
+gulp.task('default', gulp.series('server'));
