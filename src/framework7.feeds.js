@@ -59,7 +59,7 @@ export default {
       const app = page.app;
       const $ = app.$;
       const Utils = app.utils;
-      page.$el.find('.feeds-init').each((index, feedsEl) => {
+      page.$el.find('.feeds-init').each((feedsEl, index) => {
         const $el = $(feedsEl);
         app.feeds.create(Utils.extend(
           { el: feedsEl },
@@ -69,7 +69,7 @@ export default {
     },
     pageBeforeRemove(page) {
       const app = page.app;
-      page.$el.find('.feeds-init').each((index, feedsEl) => {
+      page.$el.find('.feeds-init').each((feedsEl, index) => {
         app.feeds.destroy(feedsEl);
       });
     },
