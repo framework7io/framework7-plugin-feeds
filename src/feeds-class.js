@@ -93,7 +93,7 @@ export default function (Framework7Class) {
         items: [],
       };
       const items = channel.find('item');
-      items.each((el, index) => {
+      items.each((el) => {
         const item = $(el);
         const itemData = {
           title: item.children('title').text().replace('<![CDATA[', '').replace(']]>', ''),
@@ -105,7 +105,7 @@ export default function (Framework7Class) {
           index: newData.items.length,
         };
         if (feeds.params.customItemFields && feeds.params.customItemFields.length > 0) {
-          item.children().each((childEl, childIndex) => {
+          item.children().each((childEl) => {
             for (let i = 0; i < feeds.params.customItemFields.length; i += 1) {
               const fieldName = feeds.params.customItemFields[i].split('||')[0];
               const fieldAttr = feeds.params.customItemFields[i].split('||')[1];

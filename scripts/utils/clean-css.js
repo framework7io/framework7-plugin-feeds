@@ -7,7 +7,7 @@ module.exports = (content, options = {}) => {
     {
       compatibility: '*,-properties.zeroUnits',
     },
-    options,
+    options
   );
 
   return new Promise((resolve, reject) => {
