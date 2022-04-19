@@ -60,7 +60,7 @@
     "gulp-modify-file": "^1.0.1",
     "gulp-open": "^3.0.1",
     "less": "^4.1.2",
-    "postcss": "^6.0.19",
+    "postcss": "^7.0.36",
     "replace": "^0.3.0",
     "rollup": "^2.60.1",
     "terser": "^5.10.0"
